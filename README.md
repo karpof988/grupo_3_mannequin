@@ -16,6 +16,7 @@ https://www.dafiti.com.ar (Éxito)
 https://shopdressup.com/daily-deals/ (Por diseño)
 https://www.mercadolibre.com.ar/h/moda#menu=categories (Por densidad de información página de presentación)
 https://www.forever21.com/us/shop (Por diseño)
+https://www.falabella.com.ar/falabella-ar/ (Por Diseño)
 
 Integrantes:
 Clara Visconti
