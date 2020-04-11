@@ -1,5 +1,7 @@
 # grupo_3_mannequin
 
+Nombre del proyecto: Mannequin
+
 ¿Qué productos o servicios brindará nuestro sitio?
 Venta de indumentaria 
 
